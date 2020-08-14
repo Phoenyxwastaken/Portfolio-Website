@@ -2,7 +2,10 @@ html {
     color: white;
 }
 
-.Paragraph {
+.center {
     align-content: center;
+}
 
+body {
+    background-image: url("roofscenewebsite");
 }
